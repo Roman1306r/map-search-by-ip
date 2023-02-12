@@ -3,14 +3,17 @@
    This is sources 
   
   ## 📦 Install
-  
+   
 </div>
 
 ```sh
 npm install 
 ```
+
 ## 🚀 Usage
-```sh
+
 [deploy project](https://ip-adress-search.netlify.app/).
+
+```sh
 npm run start 
 ```
